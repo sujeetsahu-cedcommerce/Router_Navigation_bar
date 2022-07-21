@@ -1,0 +1,23 @@
+nav{
+    height: 5vh;
+    padding-top: 1.5%;
+    width: 100vw;
+}
+
+nav a{
+    padding: 50px;
+    margin-top:50px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5vw;
+    text-align: center; 
+}
+
+nav a.focus{
+    color:cyan;
+}
+
+ .nav-div {
+    background-color: black;
+    width: 100vw;
+}
